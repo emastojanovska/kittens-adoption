@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kittens-adoption/static/css/main.acac6d7a.chunk.css",
+    "main.js": "/kittens-adoption/static/js/main.17081650.chunk.js",
+    "main.js.map": "/kittens-adoption/static/js/main.17081650.chunk.js.map",
+    "runtime-main.js": "/kittens-adoption/static/js/runtime-main.96d661dc.js",
+    "runtime-main.js.map": "/kittens-adoption/static/js/runtime-main.96d661dc.js.map",
+    "static/js/2.bb7480b0.chunk.js": "/kittens-adoption/static/js/2.bb7480b0.chunk.js",
+    "static/js/2.bb7480b0.chunk.js.map": "/kittens-adoption/static/js/2.bb7480b0.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/kittens-adoption/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/kittens-adoption/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/kittens-adoption/index.html",
+    "static/css/main.acac6d7a.chunk.css.map": "/kittens-adoption/static/css/main.acac6d7a.chunk.css.map",
+    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/kittens-adoption/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96d661dc.js",
+    "static/js/2.bb7480b0.chunk.js",
+    "static/css/main.acac6d7a.chunk.css",
+    "static/js/main.17081650.chunk.js"
+  ]
+}
